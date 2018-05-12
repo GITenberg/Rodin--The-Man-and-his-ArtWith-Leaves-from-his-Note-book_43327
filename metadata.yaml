@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '42138'
     url: http://www.gutenberg.org/2009/agents/42138
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43327#Rodin--The-Man-and-his-ArtWith-Leaves-from-his-Note-book
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
